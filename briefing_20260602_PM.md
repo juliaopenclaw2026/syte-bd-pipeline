@@ -1,25 +1,28 @@
 # SYTE Corp BD 简报 — 2026-06-02
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-02 17:53
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-02 22:25
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **1** 个 |
-| 本次**更新**记录 | 2 个 |
-| 当前有效机会总数 | 120 个 |
-| 其中 Solicitation | 89 个 |
-| 其中 Presolicitation | 31 个 |
+| 本次**新增**机会 | **4** 个 |
+| 本次**更新**记录 | 6 个 |
+| 当前有效机会总数 | 125 个 |
+| 其中 Solicitation | 92 个 |
+| 其中 Presolicitation | 33 个 |
 | 🔴 极紧急（≤7天） | 37 个 |
-| 🟠 紧急（8–14天） | 16 个 |
+| 🟠 紧急（8–14天） | 17 个 |
 | ⭐ SDVOSB Solicitation | 16 个 |
 
 ## 🆕 本次新增机会
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Presolicitation | FY26 Brunswick Inner Harbor Dredging Project | Not Specified | 其他重型土建 | 06/15/2026 | 13d | — | 🟠 紧急 |
+| Presolicitation | Repair Carswell Ave. | DWG, Texas | 公路/桥梁 | 06/17/2026 | 15d | — | 🟡 关注 |
+| Presolicitation | Z1DA--Project No. 552-26-202 - Replace Overhead Paging … | Not Specified | 238210 | 06/17/2026 | 15d | — | ⭐ SDVOSB🟡 关注 |
+| Solicitation | Z--ZION- Crawford Dam Removal and Diversion | Not Specified | 其他重型土建 | 07/08/2026 | 36d | — | ⬜ 正常 |
+| Solicitation | FORT HOWES WATER STORAGE TANK | Not Specified | 水/污水管线 | 07/15/2026 | 43d | — | ⬜ 正常 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -30,7 +33,6 @@
 | N6247326R0012 | Base Operations Support (BOS) Maintenance and Serv… | Not Specified | 06/03/2026 | **1d** | — |  |
 | 140P8126B0003 | Y--LAKE - TWO COMMUNICATIONS TOWER INSTALLATION AN… | Not Specified | 06/03/2026 | **1d** | — |  |
 | FA486126Q0010 | 99CES - PKA - WT16747339 - Install Lift Station Di… | Not Specified | 06/03/2026 | **1d** | — |  |
-| W912WJ26QA100 | Weeks Brook Bridge Railing Repair, Franklin Falls … | Not Specified | 06/03/2026 | **1d** | $25,000 and $100,000 |  |
 | W912BU26RA013 | Oldmans Dredged Material Placement Facility (DMPF)… | Not Specified | 06/03/2026 | **1d** | — |  |
 | W9123826QA014 | Yuba Gravel Placement | LINDA, California | 06/04/2026 | **2d** | — |  |
 | N6247324R0036 | Marine Corps Base Camp Pendleton (MCBCP) Base Oper… | Oceanside, California | 06/04/2026 | **2d** | $47 Million |  |
@@ -47,6 +49,7 @@
 | 140P4526Q0022 | F--PAGR MEK SURFACE REHAB  | Not Specified | 06/08/2026 | **6d** | — |  |
 | 36C78626B0009 | Danville National Cemetery – National Shrine Proje… | Danville, Illinois | 06/08/2026 | **6d** | — | ⭐ SDVOSB |
 | W911S026QA004 | FY26 TCS MITD Enterprise Classroom Modernization F… | Not Specified | 06/08/2026 | **6d** | — | ⭐ SDVOSB |
+| W912WJ26QA100 | Weeks Brook Bridge Railing Repair, Franklin Falls … | Not Specified | 06/08/2026 | **6d** | $25,000 and $100,000 |  |
 | 36C26326B0028-0001 | 656-26-702  EHRM DDPO 2.0 | Saint Cloud, Minnesota | 06/08/2026 | **6d** | — | ⭐ SDVOSB |
 | 140L0626R0006 | Z--GAOA BAR ISLAND DAM RECONSTRUCTION | Not Specified | 06/08/2026 | **6d** | — |  |
 | W50S8S26QA009 | 180th FW Lift Station Repair | Swanton, Ohio | 06/08/2026 | **6d** | — |  |
@@ -65,6 +68,7 @@
 | 36C24726R0074 | Z2NE--544-22-115 Replace Water and Fire Piping Loo… | Columbia, South Carolina | 06/10/2026 | **8d** | — | ⭐ SDVOSB |
 | W912P726BA002 | FY26 REDWOOD CITY CHANNEL MAINTENANCE DREDGING PRO… | Not Specified | 06/11/2026 | **9d** | $5,000,000 - $10,000,000 |  |
 | 140FC226Q0032 | VA-HARRISON LAKE NFH-REPL ELECTRICAL VC | Not Specified | 06/11/2026 | **9d** | — |  |
+| W912DR26QA048 | Gravel Road Maintenance | Not Specified | 06/11/2026 | **9d** | — |  |
 | FA446026Q0383 | Repair/Replace Traffic Lights | Little Rock Air Force Base, Arkansas | 06/11/2026 | **9d** | — |  |
 | 36C78626R0059_1 | Project # 962CM3003 | Cemetery Improvement Project… | Vallejo, California | 06/12/2026 | **10d** | $5,000,000 and $10,000,000 | ⭐ SDVOSB |
 | FA302226Q0009 | Fiber Optic Cable B230 to B9511 | Mississippi | 06/12/2026 | **10d** | — |  |
@@ -125,8 +129,8 @@
 | 36C25626R0015_PRESOL_CONSTRUCT_NEW_WATER_STORAGE_FACILITY | Y1NE| PRESOLICIATION | 36C25626R0015 | CONSTRUCT N… | Fayetteville, Arkansas | 水/污水管线 | ⭐ SDVOSB |
 | W91364-26-B-A001 | OHARNG Tactical Vehicle Maneuver Lane Improvement … | Ravenna, Ohio | 其他重型土建 | ⭐ SDVOSB |
 | 36C24626R0067 | Z2DA--FY26 NRM  590-24-115 Public Address System | Hampton, Virginia | 238210 | ⭐ SDVOSB |
+| 36C25026B0050 | Z1DA--Project No. 552-26-202 - Replace Overhead Pa… | Not Specified | 238210 | ⭐ SDVOSB |
 | W9127826RA025 | Phillips Parkway Haul Route | Cape Canaveral, Florida | 公路/桥梁 | SBA |
-| 140P5326R0019 | Y--GRSM NEWFOUND GAP WASTEWATER SYSTEM WORK | Not Specified | 水/污水管线 | SBA |
 
 ---
 _自动生成 by SYTE BD Pipeline ｜ 2026-06-02_
