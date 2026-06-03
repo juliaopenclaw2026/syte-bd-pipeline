@@ -1,17 +1,17 @@
 # SYTE Corp BD 简报 — 2026-06-03
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-03 18:10
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-03 22:30
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **5** 个 |
-| 本次**更新**记录 | 13 个 |
-| 当前有效机会总数 | 128 个 |
-| 其中 Solicitation | 93 个 |
-| 其中 Presolicitation | 35 个 |
-| 🔴 极紧急（≤7天） | 36 个 |
+| 本次**新增**机会 | **6** 个 |
+| 本次**更新**记录 | 11 个 |
+| 当前有效机会总数 | 134 个 |
+| 其中 Solicitation | 95 个 |
+| 其中 Presolicitation | 39 个 |
+| 🔴 极紧急（≤7天） | 35 个 |
 | 🟠 紧急（8–14天） | 20 个 |
 | ⭐ SDVOSB Solicitation | 17 个 |
 
@@ -19,11 +19,12 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | Range 13 ARF Upgrade | Not Specified | 其他重型土建 | 06/16/2026 | 13d | — | ⭐ SDVOSB🟠 紧急 |
-| Presolicitation | Install 4 Corners Hydraulics at Dashields Locks and Dam | Not Specified | 其他重型土建 | 06/18/2026 | 15d | $45,000,000.00 | 🟡 关注 |
-| Presolicitation | Z--WACO Emergency Generator | Waco, Texas | 238210 | 06/18/2026 | 15d | $25,000 and $100,000 | 🟡 关注 |
-| Solicitation | Crains Island Stage 3 | Not Specified | 其他重型土建 | 07/07/2026 | 34d | — | ⬜ 正常 |
-| Solicitation | GC26 FIRE ALARM SYSTEM REPLACEMENT | Not Specified | 238210 | 07/10/2026 | 37d | — | ⬜ 正常 |
+| Solicitation | Repair Kiddie Pool | Columbus, Mississippi | 561210 | 06/22/2026 | 19d | $25,000 and $100,000 | 🟡 关注 |
+| Presolicitation | Y--Cauldron Linn Recreation Site Improvements | Not Specified | 其他重型土建 | 07/13/2026 | 40d | — | ⬜ 正常 |
+| Presolicitation | Y--Indian Springs Vault Toilet | Not Specified | 其他重型土建 | 07/13/2026 | 40d | — | ⬜ 正常 |
+| Presolicitation | Z--NORTH COTTEREL ROAD MAINTENANCE | Not Specified | 公路/桥梁 | 07/22/2026 | 49d | — | ⬜ 正常 |
+| Presolicitation | Y--GAOA Milner Picnic Site Cabana Replacement | Not Specified | 其他重型土建 | 07/22/2026 | 49d | — | ⬜ 正常 |
+| Presolicitation | Rosebud Lift Station Construction | Rosebud, South Dakota | 水/污水管线 | — | — | $500,000 and $1,000,000 | — |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -64,7 +65,6 @@
 | W912P826BA041 | West Shore Lake Pontchartrain, Louisiana, Hurrican… | New Orleans, Louisiana | 06/09/2026 | **6d** | — |  |
 | 36C26326B0030-0004 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **6d** | — | ⭐ SDVOSB |
 | 36C26326B0030-0003 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **6d** | — | ⭐ SDVOSB |
-| 36C24726R0074 | Z2NE--544-22-115 Replace Water and Fire Piping Loo… | Columbia, South Carolina | 06/10/2026 | **7d** | — | ⭐ SDVOSB |
 | W912P726BA002 | FY26 REDWOOD CITY CHANNEL MAINTENANCE DREDGING PRO… | Not Specified | 06/11/2026 | **8d** | $5,000,000 - $10,000,000 |  |
 | 140FC226Q0032 | VA-HARRISON LAKE NFH-REPL ELECTRICAL VC | Not Specified | 06/11/2026 | **8d** | — |  |
 | W912DR26QA048 | Gravel Road Maintenance | Not Specified | 06/11/2026 | **8d** | — |  |
@@ -98,13 +98,13 @@
 | 36C26326B0030-0002 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | 6d | — |
 | 36C26326B0030-0004 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | 6d | — |
 | 36C26326B0030-0003 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | 6d | — |
-| 36C24726R0074 | Z2NE--544-22-115 Replace Water and Fire Piping Loo… | Columbia, South Carolina | 06/10/2026 | 7d | — |
 | 36C78626R0059_1 | Project # 962CM3003 | Cemetery Improvement Project… | Vallejo, California | 06/12/2026 | 9d | $5,000,000 and $10,000,000 |
 | 36C78626B0019 | Memphis National Cemetery, National Shrine Project | Memphis, Tennessee | 06/12/2026 | 9d | — |
 | 36C25726Q0551 | North Texas Hospital Patient Porters | San Antonio, Texas | 06/15/2026 | 12d | — |
 | 36C25726B0006 | Z2DA--519-20-200 VABS Replace Boiler Plant Solicit… | Big Spring, Texas | 06/16/2026 | 13d | — |
 | W91RUS26RA009 | Range 13 ARF Upgrade | Not Specified | 06/16/2026 | 13d | — |
-| W9128F26RA063 | Fort Riley Tank CoatingsRepair | Fort Riley, Kansas | 06/22/2026 | 19d | — |
+| 36C24726R0074 | Z2NE--544-22-115 Replace Water and Fire Piping Loo… | Columbia, South Carolina | 06/19/2026 | 16d | — |
+| W9128F26RA063 | Fort Riley Tank CoatingsRepair | Fort Riley, Kansas | 06/25/2026 | 22d | — |
 | W912QR26RA033 | Anniston Army Depot (ANAD) Power Generation and Mi… | Anniston, Alabama | 06/29/2026 | 26d | — |
 | 36C10F26B0001 | Fort Sam Houston National Cemetery, Phase 3 Expans… | San Antonio, Texas | 06/30/2026 | 27d | $1,000,000 and $2,000,000 |
 
@@ -114,14 +114,14 @@
 | --- | --- | --- | --- | --- | --- |
 | FA850126R0004 | Robins AFB Paving Multi-Award IDIQ | Warner Robins, Georgia | 06/18/2026 | 15d | $45M |
 | 140FGA26Q0029 | EO 14398 - GAOA - National Elk Refuge Electrical R | Not Specified | 06/18/2026 | 15d | — |
+| W912WJ26QA113 | Drainage Basin Installation, Mansfield Hollow Dam,… | Not Specified | 06/18/2026 | 15d | $25,000 and $100,000 |
+| 36C24726R0074 | Z2NE--544-22-115 Replace Water and Fire Piping Loo… | Columbia, South Carolina | 06/19/2026 | 16d | — |
 | 140P8426R0002 | Z--Rehab Power and Cooling Systems, Pinnalces NP | Paicines | 06/19/2026 | 16d | — |
 | 140P6326Q0022 | PAIS WASTE WATER TANK REPLACEMENT | Not Specified | 06/22/2026 | 19d | — |
 | 140L3626Q0021 | Z--GAOA SOAP GULCH ROAD | Not Specified | 06/22/2026 | 19d | — |
 | W9123626BA007 | James River Maintenance Dredging IDIQ | Not Specified | 06/22/2026 | 19d | — |
-| W9128F26RA063 | Fort Riley Tank CoatingsRepair | Fort Riley, Kansas | 06/22/2026 | 19d | — |
 | 140P8626R0003 | Z--Conlon Creek Culvert Removal & Restoration, GOG… | Not Specified | 06/22/2026 | 19d | — |
-| 140P6326B0006 | KNRI REPLACE VC SANITARY PLUMBING/SEPTIC | Stanton, North Dakota | 06/23/2026 | 20d | — |
-| 140PS126Q0015 | NPS - REPAIR EQUIPMENT STORAGE SHED AT CARL | Not Specified | 06/23/2026 | 20d | — |
+| FA302226R0002 | Repair Kiddie Pool | Columbus, Mississippi | 06/22/2026 | 19d | $25,000 and $100,000 |
 
 ## 👀 Presolicitation 预警（SDVOSB 优先）
 
