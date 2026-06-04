@@ -1,16 +1,16 @@
 # SYTE Corp BD 简报 — 2026-06-04
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-04 16:36
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-04 21:46
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **1** 个 |
-| 本次**更新**记录 | 15 个 |
-| 当前有效机会总数 | 131 个 |
-| 其中 Solicitation | 93 个 |
-| 其中 Presolicitation | 38 个 |
+| 本次**新增**机会 | **7** 个 |
+| 本次**更新**记录 | 9 个 |
+| 当前有效机会总数 | 138 个 |
+| 其中 Solicitation | 96 个 |
+| 其中 Presolicitation | 42 个 |
 | 🔴 极紧急（≤7天） | 35 个 |
 | 🟠 紧急（8–14天） | 19 个 |
 | ⭐ SDVOSB Solicitation | 17 个 |
@@ -19,14 +19,19 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | CHINA LAKE BOSC - SOLICITATION - N6247326R0053 | Not Specified | 561210 | 07/10/2026 | 36d | — | ⬜ 正常 |
+| Presolicitation | USAO Schwartz Conference Room Display Upgrade | California | 238210 | 06/11/2026 | 7d | — | 🔴 极紧急 |
+| Solicitation | IFB FA489926B0002 - JBLE Paving Services | Not Specified | 公路/桥梁 | 06/23/2026 | 19d | $132,667,510 | 🟡 关注 |
+| Special Notice | Superior NF ERFO Repairs on FR199 & FR200 | Not Specified | 公路/桥梁 | 06/24/2026 | 20d | $25,000 | 🟡 关注 |
+| Solicitation | USMEPCOM Low Voltage Cable Removal | North Chicago, Illinois | 238210 | 06/25/2026 | 21d | — | 🟡 关注 |
+| Solicitation | Replacement Maintenance Shop Fire Alarm Control Pa | Not Specified | 238210 | 07/06/2026 | 32d | — | ⬜ 正常 |
+| Presolicitation | Oahe IDCC Road Maintenance 2026 | Fort Pierre, South Dakota | 公路/桥梁 | 07/07/2026 | 33d | $1.5M | ⬜ 正常 |
+| Presolicitation | Y--Sherburne NWR South Loop Autotour Rehab | Not Specified | 公路/桥梁 | 07/27/2026 | 53d | $250,000 and $500,000 | ⬜ 正常 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
 | Sol # | 项目名称 | 地点 | 截止日期 | 剩余天数 | ROM估算 | 标志 |
 | --- | --- | --- | --- | --- | --- | --- |
 | W9123826QA014 | Yuba Gravel Placement | LINDA, California | 06/04/2026 | **0d** | — |  |
-| 140P6026Q0042 | Z--FOLS, Replace Alarm System & Electrical Panel | Larned, Kansas | 06/04/2026 | **0d** | — |  |
 | FA875126Q0007 | Stockbridge Parking Area and Roads | Oneida, New York | 06/04/2026 | **0d** | — |  |
 | 140P8326Q0033 | Z--LARO SEVEN BAYS LIFT STATION REPAIRS | Not Specified | 06/05/2026 | **1d** | — |  |
 | FA301626Q0118 | B-52J Commercial Engine Replacement Program Airfie… | DWG, Texas | 06/05/2026 | **1d** | — |  |
@@ -55,13 +60,13 @@
 | W912P826BA041 | West Shore Lake Pontchartrain, Louisiana, Hurrican… | New Orleans, Louisiana | 06/09/2026 | **5d** | — |  |
 | 36C26326B0030-0004 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **5d** | — | ⭐ SDVOSB |
 | 36C26326B0030-0003 | 618-26-702 EHRM Install DDPO 2 | Minneapolis, Minnesota | 06/09/2026 | **5d** | — | ⭐ SDVOSB |
+| 140P6026Q0042 | Z--FOLS, Replace Alarm System & Electrical Panel | Larned, Kansas | 06/10/2026 | **6d** | — |  |
 | W912P726BA002 | FY26 REDWOOD CITY CHANNEL MAINTENANCE DREDGING PRO… | Not Specified | 06/11/2026 | **7d** | $5,000,000 - $10,000,000 |  |
 | N6247324R0036 | Marine Corps Base Camp Pendleton (MCBCP) Base Oper… | Oceanside, California | 06/11/2026 | **7d** | $47 Million |  |
 | 140FC226Q0032 | VA-HARRISON LAKE NFH-REPL ELECTRICAL VC | Not Specified | 06/11/2026 | **7d** | — |  |
 | W912DR26QA048 | Gravel Road Maintenance | Not Specified | 06/11/2026 | **7d** | — |  |
 | FA446026Q0383 | Repair/Replace Traffic Lights | Little Rock Air Force Base, Arkansas | 06/11/2026 | **7d** | — |  |
 | 36C78626R0059_1 | Project # 962CM3003 | Cemetery Improvement Project… | Vallejo, California | 06/12/2026 | **8d** | $5,000,000 and $10,000,000 | ⭐ SDVOSB |
-| FA302226Q0009 | Fiber Optic Cable B230 to B9511 | Mississippi | 06/12/2026 | **8d** | — |  |
 | 140P8426Q0035 | Grade and Pave, Lassen Volcanic NP | Not Specified | 06/12/2026 | **8d** | — |  |
 | 36C78626B0019 | Memphis National Cemetery, National Shrine Project | Memphis, Tennessee | 06/12/2026 | **8d** | — | ⭐ SDVOSB |
 | 140FC326Q0024 | CA-FWS MODOC NWR-WATER MAIN REPAIR | Not Specified | 06/15/2026 | **11d** | $50,000 to $65,000.00 |  |
@@ -69,6 +74,7 @@
 | 140L1226R0003 | BESSEMER MINE ROAD O&M | Not Specified | 06/15/2026 | **11d** | — |  |
 | 89503426BWA000065 | Z--Verona-Great Falls 161KV Transmission Line Rebu… | Not Specified | 06/15/2026 | **11d** | — |  |
 | 36C25726Q0551 | North Texas Hospital Patient Porters | San Antonio, Texas | 06/15/2026 | **11d** | — | ⭐ SDVOSB |
+| FA302226Q0009 | Fiber Optic Cable B230 to B9511 | Mississippi | 06/16/2026 | **12d** | — |  |
 | 36C25726B0006 | Z2DA--519-20-200 VABS Replace Boiler Plant Solicit… | Big Spring, Texas | 06/16/2026 | **12d** | — | ⭐ SDVOSB |
 | W912P926BA072 | Bayou Teche, East and West Calumet Floodgate Appro… | New Orleans, Louisiana | 06/16/2026 | **12d** | $500,000 |  |
 | 140P6426B0002 | Z--Trail Replacement | Not Specified | 06/16/2026 | **12d** | — |  |
