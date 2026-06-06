@@ -151,6 +151,12 @@ def main():
         import generate_ceo_brief
         generate_ceo_brief.main(csv_path, today=datetime.now())
 
+    print("=" * 50)
+    print("Step 5: Generating public web site")
+    print("=" * 50)
+    import generate_site
+    generate_site.main()
+
     update_claude_md(datetime.now())
     print("\nDone.")
 

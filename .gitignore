@@ -14,6 +14,7 @@ venv_new/
 # Local logs and transient files
 logs/
 ~$*
+site/
 
 # Pipedrive/local web app files intentionally excluded from cloud phase 1
 app.py
