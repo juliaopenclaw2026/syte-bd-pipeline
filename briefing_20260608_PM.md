@@ -1,17 +1,17 @@
 # SYTE Corp BD 简报 — 2026-06-08
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-08 16:56
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-08 21:54
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
 | 本次**新增**机会 | **4** 个 |
-| 本次**更新**记录 | 17 个 |
-| 当前有效机会总数 | 138 个 |
-| 其中 Solicitation | 97 个 |
-| 其中 Presolicitation | 41 个 |
-| 🔴 极紧急（≤7天） | 35 个 |
+| 本次**更新**记录 | 11 个 |
+| 当前有效机会总数 | 142 个 |
+| 其中 Solicitation | 99 个 |
+| 其中 Presolicitation | 43 个 |
+| 🔴 极紧急（≤7天） | 34 个 |
 | 🟠 紧急（8–14天） | 20 个 |
 | ⭐ SDVOSB Solicitation | 18 个 |
 
@@ -19,16 +19,15 @@
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | Indian River Canoe Trail Clearing | Munising, Michigan | 其他重型土建 | 06/14/2026 | 6d | $45 Million | 🔴 极紧急 |
-| Presolicitation | J045--PREVENTIVE MAINTENANCE & CLEANING- 41 DX HVAC | Baltimore, MD | 561210 | 06/22/2026 | 14d | — | 🟠 紧急 |
-| Solicitation | Atlanta Job Corps Center Caretaker and Security Service… | Atlanta, Georgia | 561210 | 06/25/2026 | 17d | — | 🟡 关注 |
-| Solicitation | Y1NE| SOLICIATION | 36C25626R0015 | CONSTRUCT NEW WATER… | Fayetteville, Arkansas | 水/污水管线 | 07/23/2026 | 45d | $10,000,000.00 and $20,000,000.00 | ⭐ SDVOSB⬜ 正常 |
+| Presolicitation | National Center for Toxicological Research (NCTR) on-si… | Jefferson, Arkansas | 561210 | 06/22/2026 | 14d | $47 M | 🟠 紧急 |
+| Presolicitation | B16 PLC Replacement | Not Specified | 238210 | 06/23/2026 | 15d | $500,000 and $550,000 | 🟡 关注 |
+| Solicitation | Electrical Upgrade for Brass Crusher | Tampa, Florida | 238210 | 06/30/2026 | 22d | — | 🟡 关注 |
+| Solicitation | Telecom lines replacement, Lake Roosevelt NRA | Not Specified | 237130 | 07/02/2026 | 24d | $150,000 and $175,000 | 🟡 关注 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
 | Sol # | 项目名称 | 地点 | 截止日期 | 剩余天数 | ROM估算 | 标志 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 140P9726R0002 | Y--GLBA REHAB WATERLINE | Not Specified | 06/08/2026 | **0d** | — |  |
 | 140P4526Q0022 | F--PAGR MEK SURFACE REHAB  | Not Specified | 06/08/2026 | **0d** | — |  |
 | W912WJ26QA100 | Weeks Brook Bridge Railing Repair, Franklin Falls … | Not Specified | 06/08/2026 | **0d** | $25,000 and $100,000 |  |
 | 36C26326B0028-0001 | 656-26-702  EHRM DDPO 2.0 | Saint Cloud, Minnesota | 06/08/2026 | **0d** | — | ⭐ SDVOSB |
@@ -119,8 +118,8 @@
 | FA480026B0002 | IFB FA489926B0002 - JBLE Paving Services | Not Specified | 06/23/2026 | 15d | $132,667,510 |
 | 140FGA26Q0033 | AR-MAMMOTH SPRING NFH-REPLACE GENERATOR | Not Specified | 06/23/2026 | 15d | — |
 | 140A1626QD002 |  AIRR Security Cameras & Badging for BTFA | Not Specified | 06/23/2026 | 15d | — |
+| 140P9726R0002 | Y--GLBA REHAB WATERLINE | Not Specified | 06/24/2026 | 16d | — |
 | W50S8526BA001 | VGLZ 182035 REPAIR BASE PERIMETER ROAD | Not Specified | 06/24/2026 | 16d | — |
-| 140FC326Q0025 | NM DEXTER NFHTC POND LINER 12B & 13B | Not Specified | 06/24/2026 | 16d | — |
 
 ## 👀 Presolicitation 预警（SDVOSB 优先）
 
