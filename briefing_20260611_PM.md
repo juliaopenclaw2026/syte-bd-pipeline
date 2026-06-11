@@ -1,28 +1,27 @@
 # SYTE Corp BD 简报 — 2026-06-11
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-11 17:08
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-11 22:06
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
-| 本次**新增**机会 | **4** 个 |
-| 本次**更新**记录 | 16 个 |
-| 当前有效机会总数 | 141 个 |
-| 其中 Solicitation | 92 个 |
-| 其中 Presolicitation | 49 个 |
+| 本次**新增**机会 | **3** 个 |
+| 本次**更新**记录 | 12 个 |
+| 当前有效机会总数 | 145 个 |
+| 其中 Solicitation | 95 个 |
+| 其中 Presolicitation | 50 个 |
 | 🔴 极紧急（≤7天） | 25 个 |
-| 🟠 紧急（8–14天） | 31 个 |
+| 🟠 紧急（8–14天） | 33 个 |
 | ⭐ SDVOSB Solicitation | 12 个 |
 
 ## 🆕 本次新增机会
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Presolicitation | Y--YOSE-ROAD STRIPING BOF AND HWY 41 | Not Specified | 公路/桥梁 | 06/25/2026 | 14d | $45.0 million | 🟠 紧急 |
-| Presolicitation | N--EO14398 ELECTRIC REPAIRS AT SIX ALASKAN N. PARKS | Not Specified | 238210 | 06/25/2026 | 14d | — | 🟠 紧急 |
-| Presolicitation | Repair Hush House Concrete B3857 | Not Specified | 公路/桥梁 | 07/02/2026 | 21d | $45.0 million | 🟡 关注 |
-| Solicitation | MELSTONE DAM LIVESTOCK WATER SUPPLY | Not Specified | 水/污水管线 | 07/06/2026 | 25d | — | 🟡 关注 |
+| Solicitation | CORONA ARCH PARKING EXIT ROAD | Not Specified | 其他重型土建 | 06/22/2026 | 11d | — | 🟠 紧急 |
+| Solicitation | Video Intercom System | Ellsworth AFB, South Dakota | 238210 | 06/25/2026 | 14d | — | 🟠 紧急 |
+| Presolicitation | J041--Columbia South Carolina Boiler Plant Light Fixtur… | Columbia, South Carolina | 561210 | 07/01/2026 | 20d | $47 Million | ⭐ SDVOSB🟡 关注 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -64,6 +63,7 @@
 | W9123626BA007 | James River Maintenance Dredging IDIQ | Not Specified | 06/22/2026 | **11d** | — |  |
 | 140P8626R0003 | Z--Conlon Creek Culvert Removal & Restoration, GOG… | Not Specified | 06/22/2026 | **11d** | — |  |
 | FA302226R0002 | Repair Kiddie Pool | Columbus, Mississippi | 06/22/2026 | **11d** | $25,000 and $100,000 |  |
+| 140L5726Q0019 | CORONA ARCH PARKING EXIT ROAD | Not Specified | 06/22/2026 | **11d** | — |  |
 | 140P6326B0006 | Z--KNRI REPLACE VC SANITARY PLUMBING/SEPTIC | Stanton, North Dakota | 06/23/2026 | **12d** | — |  |
 | 140PS126Q0015 | NPS - REPAIR EQUIPMENT STORAGE SHED AT CARL | Not Specified | 06/23/2026 | **12d** | — |  |
 | W50S9526BA002 | Repair and Widen Taxiways Phase III, PSTE 162013 | Not Specified | 06/23/2026 | **12d** | $10,000,000.00 and $25,000,000.00 |  |
@@ -84,6 +84,7 @@
 | W911KB26RA039 | FTW506 Life Safety Repairs | Not Specified | 06/25/2026 | **14d** | $18,000,000 |  |
 | W9124D26QA266 | USMEPCOM Low Voltage Cable Removal | North Chicago, Illinois | 06/25/2026 | **14d** | — |  |
 | 1605AE-26-Q-00005 | Atlanta Job Corps Center Caretaker and Security Se… | Atlanta, Georgia | 06/25/2026 | **14d** | — |  |
+| FA469026Q0030 | Video Intercom System | Ellsworth AFB, South Dakota | 06/25/2026 | **14d** | — |  |
 
 ## ⭐ SDVOSB 重点机会（最高优先级）
 
@@ -107,15 +108,15 @@
 | Sol # | 项目名称 | 地点 | 截止日期 | 剩余天数 | ROM估算 |
 | --- | --- | --- | --- | --- | --- |
 | 140P5426R0010 | Y--FOMA REPLACE NATURE TRAIL BOARDWALK RS | Not Specified | 06/26/2026 | 15d | — |
+| 140R4026R0006 | N--GC26 SCADA UPS REPLACEMENT | Not Specified | 06/26/2026 | 15d | — |
 | 89503426BWA000066 | Carpenter Substation Stage 03 South Dakota | Not Specified | 06/26/2026 | 15d | — |
 | 140P6026Q0025 | FOSM - Replace Backflow Prevention Assemblies | Fort Smith, Arkansas | 06/26/2026 | 15d | — |
 | FA441826Q0067 | 841st Network Cabling Installation | North Charleston, South Carolina | 06/26/2026 | 15d | — |
-| 140R2026R0007 | CT SWITCHGEAR REPLACEMENT STAMPEDE PP | Not Specified | 06/27/2026 | 16d | — |
+| 140R2026R0007 | Z--CT SWITCHGEAR REPLACEMENT STAMPEDE PP | Not Specified | 06/27/2026 | 16d | — |
 | W912QR26RA033 | Anniston Army Depot (ANAD) Power Generation and Mi… | Anniston, Alabama | 06/29/2026 | 18d | — |
 | 89503426BWA000067 | Denison Substation Stage 10, Iowa | Not Specified | 06/29/2026 | 18d | — |
 | 140P6026B0005 | Z--GRPO - Mile Creek Stone Trail Bridge | Grand Portage, Minnesota | 06/29/2026 | 18d | — |
 | W912PM26BA001 | Atlantic Intracoastal Waterway (AIWW) Snows Cut Sh… | Not Specified | 06/29/2026 | 18d | — |
-| W9123826RA016 | U.S. ARMY 63RD READINESS DIVISION MILCON ERCIP MIC… | Not Specified | 06/29/2026 | 18d | $10,000,000 to $25,000,000 |
 
 ## 👀 Presolicitation 预警（SDVOSB 优先）
 
@@ -128,7 +129,7 @@
 | 36C25026B0050 | Z1DA--Project No. 552-26-202 - Replace Overhead Pa… | Not Specified | 238210 | ⭐ SDVOSB |
 | 36C26126R0050 | 6150--FY26 NRM 654-26-020 | 654-26-2-6059-0042 | B… | Reno, NV | 238210 | ⭐ SDVOSB |
 | 36C24226B0057 | N091--PROJECT # 528-18-110  Fuel Oil Tank Replacem… | Buffalo, New York | 油气管道 | ⭐ SDVOSB |
-| W9127826RA025 | Phillips Parkway Haul Route | Cape Canaveral, Florida | 公路/桥梁 | SBA |
+| 36C24726Q0610 | J041--Columbia South Carolina Boiler Plant Light F… | Columbia, South Carolina | 561210 | ⭐ SDVOSB |
 
 ---
 _自动生成 by SYTE BD Pipeline ｜ 2026-06-11_
