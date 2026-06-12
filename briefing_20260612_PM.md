@@ -1,26 +1,26 @@
 # SYTE Corp BD 简报 — 2026-06-12
 
-> 数据来源：SAM.gov ｜ 更新时间：2026-06-12 16:32
+> 数据来源：SAM.gov ｜ 更新时间：2026-06-12 21:53
 
 ## 📌 本次更新摘要
 
 | 指标 | 数值 |
 |---|---|
 | 本次**新增**机会 | **2** 个 |
-| 本次**更新**记录 | 21 个 |
-| 当前有效机会总数 | 141 个 |
-| 其中 Solicitation | 93 个 |
+| 本次**更新**记录 | 12 个 |
+| 当前有效机会总数 | 143 个 |
+| 其中 Solicitation | 95 个 |
 | 其中 Presolicitation | 48 个 |
 | 🔴 极紧急（≤7天） | 22 个 |
-| 🟠 紧急（8–14天） | 38 个 |
-| ⭐ SDVOSB Solicitation | 12 个 |
+| 🟠 紧急（8–14天） | 37 个 |
+| ⭐ SDVOSB Solicitation | 13 个 |
 
 ## 🆕 本次新增机会
 
 | 类型 | 项目名称 | 地点 | NAICS | 截止日期 | 剩余天数 | ROM估算 | 优先级 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Solicitation | Bayou Teche, East and West Calumet Floodgate Approach C… | New Orleans, Louisiana | 其他重型土建 | 06/23/2026 | 11d | $500,000 | 🟠 紧急 |
-| Solicitation | Fiber Optic Cable Replacement | Not Specified | 238210 | 06/30/2026 | 18d | — | 🟡 关注 |
+| Solicitation | Fiber Optic Cable and installation - Paging System Upgr… | Madison, Wisconsin | 238210 | 06/30/2026 | 18d | — | ⭐ SDVOSB🟡 关注 |
+| Solicitation | Water Tank Storage | Not Specified | 水/污水管线 | 07/16/2026 | 34d | — | ⬜ 正常 |
 
 ## 🔴 立即行动（截止日期 ≤14 天）
 
@@ -77,7 +77,6 @@
 | N6945026R0064 |  Base Operations Support (BOS) Services at Naval A… | Not Specified | 06/25/2026 | **13d** | — |  |
 | W9128F26RA063 | Fort Riley Tank CoatingsRepair | Fort Riley, Kansas | 06/25/2026 | **13d** | — | ⭐ SDVOSB |
 | W911KB26RA039 | FTW506 Life Safety Repairs | Not Specified | 06/25/2026 | **13d** | $18,000,000 |  |
-| W9124D26QA266 | USMEPCOM Low Voltage Cable Removal | North Chicago, Illinois | 06/25/2026 | **13d** | — |  |
 | 1605AE-26-Q-00005 | Atlanta Job Corps Center Caretaker and Security Se… | Atlanta, Georgia | 06/25/2026 | **13d** | — |  |
 | FA469026Q0030 | Video Intercom System | Ellsworth AFB, South Dakota | 06/25/2026 | **13d** | — |  |
 | 36C78626R0059_1 | Project # 962CM3003 | Cemetery Improvement Project… | Vallejo, California | 06/26/2026 | **14d** | $5,000,000 and $10,000,000 | ⭐ SDVOSB |
@@ -100,6 +99,7 @@
 | 36C78626R0059_1 | Project # 962CM3003 | Cemetery Improvement Project… | Vallejo, California | 06/26/2026 | 14d | $5,000,000 and $10,000,000 |
 | W912QR26RA033 | Anniston Army Depot (ANAD) Power Generation and Mi… | Anniston, Alabama | 06/29/2026 | 17d | — |
 | 36C10F26B0001 | Fort Sam Houston National Cemetery, Phase 3 Expans… | San Antonio, Texas | 06/30/2026 | 18d | $1,000,000 and $2,000,000 |
+| 36C25226Q0526 | Fiber Optic Cable and installation - Paging System… | Madison, Wisconsin | 06/30/2026 | 18d | — |
 | 36C25626R0015 | Y1NE| SOLICIATION | 36C25626R0015 | CONSTRUCT NEW … | Fayetteville, Arkansas | 07/23/2026 | 41d | $10,000,000.00 and $20,000,000.00 |
 | W911S026QA004 | FY26 TCS MITD Enterprise Classroom Modernization F… | Not Specified | 06/12/2026 | 0d | — |
 | 36C78626B0019 | Memphis National Cemetery, National Shrine Project | Memphis, Tennessee | 06/12/2026 | 0d | — |
